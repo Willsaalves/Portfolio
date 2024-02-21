@@ -43,6 +43,7 @@ export const Container = styled.section`
   .button{
     margin-top: 5rem;
     padding: 1.4rem 6rem;
+    background: var(--pantone)
   }
 
   .hero-image{

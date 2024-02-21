@@ -52,7 +52,7 @@
     if (state.succeeded) {
       return (
         <ContainerSucces>
-          <h3>Obrigado por entrar em contato!</h3>
+          <h3>Obrigado, entro em contato com você em até 1 hora! </h3>
           <button
             onClick={() => {
               window.scrollTo({ top: 0, behavior: 'smooth' });

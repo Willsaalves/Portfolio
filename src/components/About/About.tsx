@@ -19,16 +19,18 @@ export function About() {
         </ScrollAnimation>
         <ScrollAnimation animateIn="fadeInLeft" delay={0.1 * 1000}>
           <p>
-          Willian de Sá, desenvolvedor há 2 anos e meio, focado em backend e explorando o front para me tornar um fullstack developer.
+            Olá, sou Willian de Sá, um desenvolvedor Java com 2 anos e meio de experiência, inicialmente focado no backend. Recentemente, iniciei minha jornada de profissionalização no frontend, explorando as nuances do desenvolvimento fullstack.
           </p>
         </ScrollAnimation>
         <ScrollAnimation animateIn="fadeInLeft" delay={0.2 * 1000} style={{ marginTop: "2rem", marginBottom: "2rem" }}>
           <p>
-          Além do desenvolvimento personalizado, também ofereço serviços de manutenção em computadores, proporcionando uma abordagem personalizada para cada cliente.</p>
+            Além de me dedicar ao desenvolvimento personalizado, também presto serviços de manutenção em computadores, proporcionando uma abordagem personalizada para cada cliente.
+          </p>
         </ScrollAnimation>
         <ScrollAnimation animateIn="fadeInLeft" delay={0.3 * 1000}>
           <p>
-          Então, se você precisa de um novo site ou apenas deseja renovar sua presença online atual, ficarei feliz em conversar e ver como posso ajudar. Vamos transformar juntos seus sonhos de site em realidade!!</p>
+            Este é um dos meus primeiros projetos no frontend, e estou empolgado em aprimorar minhas habilidades nesta área. Se você precisa de um novo site ou deseja renovar sua presença online atual, ficarei feliz em conversar e explorar como posso ajudar. Vamos transformar juntos seus sonhos de site em realidade!
+          </p>
         </ScrollAnimation>
 
         <ScrollAnimation animateIn="fadeInLeft" delay={0.4 * 1000}>
@@ -55,7 +57,7 @@ export function About() {
               <img src={javaIcon} alt="Java" />
             </ScrollAnimation>
           </div>
-    
+
         </div>
       </div>
       <div className="about-image">

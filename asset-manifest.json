@@ -1,10 +1,10 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.039bf95e.css",
-    "main.js": "/Portfolio/static/js/main.e1ce8745.js",
+    "main.js": "/Portfolio/static/js/main.6a3d57fc.js",
     "static/media/Hello.gif": "/Portfolio/static/media/Hello.d93720933c608f6178fb.gif",
     "static/media/illustration.svg": "/Portfolio/static/media/illustration.84bf93eb20488a753440bf83d27db7bb.svg",
-    "static/media/Willian_resume.pdf": "/Portfolio/static/media/Willian_resume.afc48262c9332cf840e0.pdf",
+    "static/media/Willian_resume.pdf": "/Portfolio/static/media/Willian_resume.a0caaa570e3771ce2944.pdf",
     "static/media/WillianAlves.jpg": "/Portfolio/static/media/WillianAlves.b29ef25fdf291b38c367.jpg",
     "static/media/node-icon.svg": "/Portfolio/static/media/node-icon.cc3d45a160579a330a5c17cc2c8f1407.svg",
     "static/media/typescript-icon.svg": "/Portfolio/static/media/typescript-icon.f3bc0fd998dea6b1266965436af97a49.svg",
@@ -23,10 +23,10 @@
     "static/media/js-icon.svg": "/Portfolio/static/media/js-icon.2d25723e91c8a9e057ae447ae6a73ecb.svg",
     "static/media/email-icon.svg": "/Portfolio/static/media/email-icon.3d248ed54044436938f2a182298e38ee.svg",
     "main.039bf95e.css.map": "/Portfolio/static/css/main.039bf95e.css.map",
-    "main.e1ce8745.js.map": "/Portfolio/static/js/main.e1ce8745.js.map"
+    "main.6a3d57fc.js.map": "/Portfolio/static/js/main.6a3d57fc.js.map"
   },
   "entrypoints": [
     "static/css/main.039bf95e.css",
-    "static/js/main.e1ce8745.js"
+    "static/js/main.6a3d57fc.js"
   ]
 }

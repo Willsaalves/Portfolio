@@ -12,7 +12,7 @@ import { useTheme } from '../Theme/ThemeProvider';
 
 export function Hero() {
 
-  const { isDarkMode, toggleTheme } = useTheme();
+  const { isDarkMode } = useTheme();
   const githubIconSource = isDarkMode ? githubIconBlack : githubIcon;
 
   return (
